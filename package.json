@@ -24,7 +24,9 @@
         "bracketSpacing": false,
         "printWidth": 100,
         "semi": false,
-        "singleQuote": true
+        "singleQuote": true,
+        "tabWidth": 4,
+        "useTabs": true
     },
     "private": true,
     "scripts": {
