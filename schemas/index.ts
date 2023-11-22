@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import Channels from './Channels'
+
+export const schemaTypes = [Channels]
